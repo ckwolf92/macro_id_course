@@ -9,20 +9,8 @@ The current syllabus and slides are for the Fall 2026 version of the class, taug
 ## Contents
 
 - [Syllabus](syllabus.pdf)
-- Lecture slides:
-  1. [Course Overview & Introduction](slides/1_macroshocks.pdf)
-  2. [Linearized Structural Macro Models](slides/2_lineardsge.pdf)
-  3. [Linear Time Series Methods](slides/3_linearts.pdf)
-  4. [Policy and Policy Causality](slides/4_macropolicy.pdf)
-  5. [Time Series Approaches to Identifying Macroeconomic Shocks](slides/5_tsid.pdf)
-  6. [Time Series Estimation Techniques](slides/6_tsestim.pdf)
-  7. [Non-Linear Time Series Methods](slides/7_tsnl.pdf)
-  8. [Using Shocks to Identify Structural Equations](slides/8_eqid.pdf)
-  9. [Evaluating Policy Counterfactuals](slides/9_whatif.pdf)
-  10. [The Origins of Business Cycles](slides/10_cycles.pdf)
-  11. [Cross-Sectional Analysis – Interpretation](slides/11_xsectionid.pdf)
-  12. [Cross-Sectional Analysis – Aggregation](slides/12_xsectionagg.pdf)
-- [Problem set](exercises/problem_set.pdf), with [data for Question 4](exercises/q4_data.csv)
+- [Lecture slides](slides)
+- [Problem set](exercises/problem_set.pdf)
 
 ## Acknowledgements
 
