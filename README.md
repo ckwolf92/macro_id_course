@@ -1,4 +1,4 @@
-# Identification in Macroeconomics
+# Course on Identification in Macroeconomics
 
 ## Overview
 
