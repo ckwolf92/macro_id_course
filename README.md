@@ -22,7 +22,7 @@ The current syllabus and slides are for the Fall 2026 version of the class, taug
   10. [The Origins of Business Cycles](slides/10_cycles.pdf)
   11. [Cross-Sectional Analysis – Interpretation](slides/11_xsectionid.pdf)
   12. [Cross-Sectional Analysis – Aggregation](slides/12_xsectionagg.pdf)
-- [Problem set](exercises/problem_set.pdf)
+- [Problem set](exercises/problem_set.pdf), with [data for Question 4](exercises/14461_2026fall_ps_q4_data.csv)
 
 ## Acknowledgements
 
